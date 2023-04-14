@@ -1,4 +1,4 @@
-This a angular application used to manage our tasks.
+This is a angular application used to manage our tasks.
 # TaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
